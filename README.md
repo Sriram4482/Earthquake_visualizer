@@ -36,6 +36,13 @@ This app provides an **interactive map, earthquake markers, filters, and charts*
 - **API**: USGS Earthquake API (`https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson`)  
 
 ---
+
+🌍 Deployment
+
+The app is deployed here:
+👉 Live Demo Link
+https://earthquakeevisualizer.netlify.app/
+
 ## 📸 Screenshots
 
 Main Dashboard
@@ -45,6 +52,8 @@ Main Dashboard
 
 after searching a particular region
 <img width="1898" height="866" alt="Image" src="https://github.com/user-attachments/assets/c193caaf-d413-4e17-95c9-5fc67e26166a" />
+
+
 
 
 ## 🚀 Getting Started
@@ -59,15 +68,6 @@ npm install
 
 3. Start Development Server
 npm start
-
-
-🌍 Deployment
-
-The app is deployed here:
-👉 Live Demo Link
-https://earthquakeevisualizer.netlify.app/
-
-
 
 
 
