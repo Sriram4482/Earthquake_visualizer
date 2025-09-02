@@ -51,20 +51,11 @@ npm install
 npm start
 
 
-Visit 👉 https://earthquakeevisualizer.netlify.app/
-
 🌍 Deployment
 
 The app is deployed here:
 👉 Live Demo Link
 https://earthquakeevisualizer.netlify.app/
-
-
-📸 Screenshots
-Main Dashboard
-
-![Earthquake Map](images/earth.png)
-![Earthquake List](images/quake.png)
 
 
 
