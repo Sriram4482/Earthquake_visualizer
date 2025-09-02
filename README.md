@@ -41,7 +41,7 @@ This app provides an **interactive map, earthquake markers, filters, and charts*
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/your-username/earthquake-visualizer.git
+git clone https://github.com/Sriram4482/Earthquake_visualizer.git
 cd earthquake-visualizer
 
 2. Install Dependencies
@@ -51,21 +51,21 @@ npm install
 npm start
 
 
-Visit 👉 http://localhost:5173
+Visit 👉 https://earthquakeevisualizer.netlify.app/
 
 🌍 Deployment
 
 The app is deployed here:
 👉 Live Demo Link
+https://earthquakeevisualizer.netlify.app/
 
-(Replace with your Vercel / Netlify / CodeSandbox link)
 
 📸 Screenshots
 Main Dashboard
 
-![Screenshot of Map](C:\Users\Sriram-pc\OneDrive\Desktop\earthquake-visualizer\images\earth.png)
+![Earthquake Map](images/earth.png)
+![Earthquake List](images/quake.png)
 
-![Screenshot of Map](C:\Users\Sriram-pc\OneDrive\Desktop\earthquake-visualizer\images\quake.png)
 
 
 
